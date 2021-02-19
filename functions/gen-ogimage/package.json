@@ -6,6 +6,6 @@
   "dependencies": {
 
     "playwright-aws-lambda": "^0.4.0",
-    "playwright-core": "npm:playwright-chromium@1.2.1"
+    "playwright-core": "^0.11.1"
   }
 }
