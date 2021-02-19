@@ -1,2 +1,2 @@
 install:
-	cd functions/gen-ogimage && yarn  
+	cd functions/gen-ogimage && npm i 
