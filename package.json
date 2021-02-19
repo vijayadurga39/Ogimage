@@ -6,6 +6,7 @@
   "author": "satya nal <nalsatyavathi39@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chrome-aws-lambda": "^7.0.0"
+    "chrome-aws-lambda": "^7.0.0",
+    "playwright-aws-lambda": "^0.6.0"
   }
 }
